@@ -6,4 +6,4 @@ message = "Solution Sprint - Fase 05 - Pedro & Plínio"
 
 @app.route("/")
 def pagina_inicial():
-    return message
+    return "Hello World"
